@@ -139,6 +139,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Image & Visual Design
 
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** — Builds crafted, highly detailed interactive isometric SVG figures that explain a technical idea as a real physical object, such as a mechanical watch, engine, or algorithm, with optional WebGL shaders and 3D motion for Claude Code, Codex, OpenCode, and Antigravity.
+
 - **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — Generates verifiable architecture, sequence, and workflow diagrams as interactive standalone HTML, supporting typed JSON sources and rich media exports.
 
 - **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — Designs publication-grade architectural and infographic diagrams across 38 visual formats, outputting clean HTML and SVG without Mermaid templating.
