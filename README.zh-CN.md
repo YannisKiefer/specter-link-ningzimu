@@ -55,7 +55,7 @@
 
 - **[rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)** — 基于 `asc` CLI 自动化 App Store Connect 全流程，覆盖 Xcode 构建、证书签名、TestFlight 分发、元数据同步、截图与送审公证。
 
-- **[morluto/rea — reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)** — 通过 REA CLI/MCP 的证据分析已发布二进制与 JavaScript/Electron 应用；需另装 REA，原生深度分析需自备 Hopper、Ghidra 或 IDA。
+- **[morluto/rea](https://github.com/morluto/rea)** — 一套 MCP 服务与 Agent Skill（`npx rea-agents@latest setup`），让 Claude Code、Codex、Cursor 等编码 Agent 驱动 Ghidra、Hopper 与 IDA，检查原生二进制、Electron/JavaScript 应用、.NET 程序集与网站，并依据证据解释功能如何实现。
 
 ### 前端与 UI
 

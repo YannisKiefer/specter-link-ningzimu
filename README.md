@@ -55,7 +55,7 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)** — Automates App Store Connect workflows via the `asc` CLI, covering Xcode builds, signing, TestFlight, metadata, screenshots, review submissions, and notarization.
 
-- **[morluto/rea — reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)** — Investigates shipped binaries and JavaScript/Electron apps with REA CLI/MCP evidence; install REA separately and bring Hopper, Ghidra, or IDA for deep native analysis.
+- **[morluto/rea](https://github.com/morluto/rea)** — An MCP server and agent skill (`npx rea-agents@latest setup`) that lets Claude Code, Codex, Cursor, and other coding agents drive Ghidra, Hopper, and IDA to inspect native binaries, Electron/JavaScript apps, .NET assemblies, and websites, explaining how features work with evidence.
 
 ### Frontend & UI
 
