@@ -139,6 +139,8 @@
 
 ## 图像与视觉设计
 
+- **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** — 将技术概念做成高度精细、可交互的等距 SVG 实物图解，用机械装置解释机械表、引擎或算法的工作原理，并支持 WebGL 着色与三维转动，适用于 Claude Code、Codex、OpenCode 与 Antigravity。
+
 - **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — 生成经过类型校验的架构图、时序图与数据流图，以动效交互式单文件 HTML 呈现，并支持导出 SVG、PNG 及 WebM。
 
 - **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — 提供出版级技术架构与信息图表设计能力，涵盖 38 种图表类型，输出无模板痕迹的高质感单文件 HTML 与矢量 SVG。
