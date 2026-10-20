@@ -132,6 +132,8 @@
 
 - **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — 将 Claude Code 与 Codex 接入 Telegram、Discord 及飞书，实现随时随地的移动端远程交互式编程。
 
+- **[huaxialucaicaizi/business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)** — 面向初创项目的 Codex Skill 模板，沉淀一致的项目介绍口径，并据此撰写结构清晰、不编造事实的商业计划书、路演材料与孵化器申请文案。
+
 ## 营销与 SEO
 
 - **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** — 开源的 SEO、GEO 与营销 Skills，覆盖网站审计、GA4 与 Search Console 分析，并通过 NotFair MCP 在 Google、Meta、X、LinkedIn、Reddit 与 TikTok 广告账户中执行经审批的变更。

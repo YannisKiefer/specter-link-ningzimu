@@ -132,6 +132,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 - **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** — Bridges Claude Code and Codex to Telegram, Discord, and Feishu/Lark, enabling mobile, remote-controlled coding sessions.
 
+- **[huaxialucaicaizi/business-plan-skill](https://github.com/huaxialucaicaizi/business-plan-skill)** — A Codex skill template that keeps a consistent project narrative and drafts structured business plans, pitch materials, and incubator applications without inventing facts.
+
 ## Marketing & SEO
 
 - **[nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** — Open-source SEO, GEO, and marketing skills for site audits, GA4 and Search Console analysis, and approval-gated ad changes across Google, Meta, X, LinkedIn, Reddit, and TikTok via the NotFair MCP.
