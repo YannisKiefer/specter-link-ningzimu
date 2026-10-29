@@ -92,6 +92,8 @@
 
 ## 研究与情报
 
+- **[zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders)** — 聚合精选 AI Builder 的公开 X 帖文、播客和官方博客，生成附原文链接的动态摘要。
+
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — 为 AI Agent 提供免 API Key 的全网检索与阅读能力，覆盖 X、Reddit、B站、小红书等 17+ 主流平台。
 
 - **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** — 抓取公开 X（Twitter）推文、长篇 X Article、互动数据以及微信公众号正文与元数据。

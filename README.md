@@ -92,6 +92,8 @@ After that, when a new task comes up, it checks this list and decides whether th
 
 ## Research & Intelligence
 
+- **[zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders)** — Aggregates curated AI builders' public X posts, podcasts, and official blogs into digests with original source links.
+
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Gives AI agents access to browse and search 17+ platforms—including X, Reddit, Bilibili, and Xiaohongshu—via CLI and MCP without API keys.
 
 - **[Jane-xiaoer/x-fetcher](https://github.com/Jane-xiaoer/x-fetcher)** — Fetches public X (Twitter) posts, long-form X Articles, engagement metrics, and WeChat Official Account articles for agent workflows.
